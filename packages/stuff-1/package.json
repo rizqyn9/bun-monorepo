@@ -1,0 +1,13 @@
+{
+  "name": "@rdevlab/stuff-1",
+  "module": "index.ts",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "@rdevlab/stuff-2": "link:@rdevlab/stuff-2",
+    "zod": "^3.22.2"
+  }
+}

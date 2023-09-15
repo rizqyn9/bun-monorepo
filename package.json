@@ -1,0 +1,8 @@
+{
+  "name": "rdevlab",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
