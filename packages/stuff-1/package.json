@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@rdevlab/stuff-2": "link:@rdevlab/stuff-2",
-    "zod": "^3.22.2"
+    "zod": "^4.6.7"
   }
 }
